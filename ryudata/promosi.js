@@ -1,39 +1,39 @@
 exports.promosi1 = () => {
-	return`Ready Vps/Rdp Murah
+	return`Sewa Bot nya Kaka
 
-Minat Chat
-wa.me/6285609233482
+Minat Hubungi :
+wa.me/6282362285077
 `
 }
 
 exports.promosi2 = () => {
-	return`Ready Lonte Murah
+	return`Sewa Bot nya Kaka
 
-Minat Chat
-wa.me/6285609233482
+Minat Hubungi :
+wa.me/6282362285077
 `
 }
 
 exports.promosi3 = () => {
-	return`Ready Cewe Murah
+	return`Sewa Bot nya Kaka
 
-Minat Chat
-wa.me/6285609233482
+Minat Hubungi :
+wa.me/6282362285077
 `
 }
 
 exports.promosi4 = () => {
-	return`Ready Akun Murah
+	return`Sewa Bot nya Kaka
 
-Minat Chat
-wa.me/6285609233482
+Minat Hubungi :
+wa.me/6282362285077
 `
 }
 
 exports.promosi5 = () => {
-	return`Ready Meki Murah
+	return`Sewa Bot nya Kaka
 
-Minat Chat
-wa.me/6285609233482
+Minat Hubungi :
+wa.me/6282362285077
 `
 }
